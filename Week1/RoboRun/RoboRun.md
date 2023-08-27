@@ -13,10 +13,19 @@ Compare with best **spatial oblivious** **static** design.
 
 ### Background
 a crucial shortcoming of best computing solutions is that they make static, worst-case assumptions about the robot’s operating environment.
+
+Decision latency is the processing time of each sampled input.
+
+Decision deadline is the maximum latency that can be tolerated while ensuring a collision-free flight.
+
+space precision and volume determine the processing latency while space visibility and traversal speed impose the dead- line
+
+
 ### Solution
 identify four different features causing space heterogeneity and quantify their impact on compute
 
 **space precision//space volume//space traversal speed//space visibility**
+
 
 
 
