@@ -22,6 +22,8 @@ space precision and volume determine the processing latency while space visibili
 
 ![22](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/fogure1.png "111")
 
+
+
 ### Solution
 identify four different features causing space heterogeneity and quantify their impact on compute
 
@@ -44,6 +46,9 @@ sensitive (1.3X vs. 2X) to the distance of the goal location.
 
 
 ## Question
+1.Why the green line increases during 30-40s?
+![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/Fig5b.png)
+
 
 
 
