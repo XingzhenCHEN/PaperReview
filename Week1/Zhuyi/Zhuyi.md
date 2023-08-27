@@ -46,7 +46,7 @@ Post-Deployment: **Work Prioritization**.
 
 Pre-Deployment:xxx
 
-![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png)
+![]([https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png))
 
 
 
@@ -59,7 +59,6 @@ Pre-Deployment:xxx
 
 
 ## Reflection
-Iterative optimization and computational reduction through kinematic analysis。
 
 
 
