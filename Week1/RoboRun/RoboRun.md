@@ -20,7 +20,7 @@ Decision deadline is the maximum latency that can be tolerated while ensuring a 
 
 space precision and volume determine the processing latency while space visibility and traversal speed impose the dead- line
 
-![22](/Figures/fogure1.png "111")
+![22](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/fogure1.png "111")
 
 ### Solution
 identify four different features causing space heterogeneity and quantify their impact on compute
