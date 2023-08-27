@@ -20,7 +20,7 @@ Decision deadline is the maximum latency that can be tolerated while ensuring a 
 
 space precision and volume determine the processing latency while space visibility and traversal speed impose the dead- line
 
-![22](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/fogure1.png "111")
+![22](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/Figures/fogure1.png "111")
 
 
 
@@ -47,7 +47,7 @@ sensitive (1.3X vs. 2X) to the distance of the goal location.
 
 ## Question
 1.Why the green line increases during 30-40s?
-![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/Fig5b.png)
+![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/Figures/Fig5b.png)
 
 
 
