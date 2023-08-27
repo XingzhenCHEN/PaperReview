@@ -27,7 +27,8 @@ The Zhuyi model employs kinematics-based calculations to estimate the processing
 
 Set up a series formula to increase the efficiency of the iteration, which is used to find the best choice.
 
-![](https://github.com/XingzhenCHEN/PaperReview/edit/main/Week1/Zhuyi/formula1.png)
+![]([https://github.com/XingzhenCHEN/PaperReview/edit/main/Week1/Zhuyi/formula1.png](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/formula1.png))
+
 
 So far, it has estimated the tolerable latency for each actor assuming a single future trajectory.
 
