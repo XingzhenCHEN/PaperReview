@@ -29,6 +29,17 @@ identify four different features causing space heterogeneity and quantify their 
 
 **space precision//space volume//space traversal speed//space visibility**
 
+![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/RoboRun/Figures/whole.png)
+
+the governor: calculate the estimatated time budget, and determine the precision and volumn per stage.
+
+the profiler: post-process data to calculate some variables, which is used for Precision Volumn and Deadline.
+
+Operator:
+
+Precision Operator: control the precision of space process (control the sampling distance)
+
+Volumn Operator: 1.control the volume of space added to the map;2.control the space volume communicated to the planner;3.control the space volume explored by the planner
 
 
 
@@ -55,3 +66,7 @@ sensitive (1.3X vs. 2X) to the distance of the goal location.
 
 
 ## Reflection
+
+We need OPEN SOURCE!!
+
+We can detect the position and decide the calculation frequency to ddecrease the cost.
