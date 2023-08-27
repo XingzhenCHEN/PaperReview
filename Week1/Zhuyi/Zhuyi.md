@@ -46,7 +46,7 @@ Post-Deployment: **Work Prioritization**.
 
 Pre-Deployment:xxx
 
-![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png.png)
+![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png)
 
 
 
