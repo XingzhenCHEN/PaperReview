@@ -33,7 +33,7 @@ Set up a series formula to increase the efficiency of the iteration, which is us
 So far, it has estimated the tolerable latency for each actor assuming a single future trajectory.
 
 And to find the FPR per sensor, just reciprocal.
-![](https://github.com/XingzhenCHEN/PaperReview/edit/main/Week1/Zhuyi/reciprocal.png)
+![](https://github.com/XingzhenCHEN/PaperReview/edit/main/Week1/Zhuyi/reciprocal.png "")
 
 
 
@@ -47,7 +47,7 @@ Post-Deployment: **Work Prioritization**.
 
 Pre-Deployment:xxx
 
-![]([https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png))
+![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/figure3.png "")
 
 
 
