@@ -37,6 +37,8 @@ And to find the FPR per sensor, just reciprocal.
 ![](https://github.com/XingzhenCHEN/PaperReview/edit/main/Week1/Zhuyi/reciprocal.png)
 
 
+![](https://github.com/XingzhenCHEN/PaperReview/blob/main/Week1/Zhuyi/reciprocal.png)
+
 
 ### Result
 
