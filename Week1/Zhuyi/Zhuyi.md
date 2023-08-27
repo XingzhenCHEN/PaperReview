@@ -56,7 +56,9 @@ Pre-Deployment:xxx
 
 ## Question
 
+1. All of the algrithm don't consider other safty unsure variables.
 
+2. The new part of the paper is all from mathematic creation, so how we can accelerate them.
 
 
 
@@ -64,6 +66,6 @@ Pre-Deployment:xxx
 
 ## Reflection
 
-
+Iterative optimization and computational reduction through kinematic analysis
 
 
