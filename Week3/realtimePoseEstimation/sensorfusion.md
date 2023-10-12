@@ -21,3 +21,9 @@ and Global Positioning System (GPS) measurements is presented.
 
 
 ### Result
+The proposed low-cost architecture processes
+one sensor measurement in 1:95s and consumes only
+2 Watts, which enables real-time mobile applications. The
+presented algorithm was tested in MATLAB and on the FPGA.
+The results showed that the FPGA-based implementation is
+358 times faster.
