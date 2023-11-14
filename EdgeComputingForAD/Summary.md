@@ -92,3 +92,15 @@ S. Liu, J. Tang, Z. Zhang, and J.-L. Gaudiot,
 “Computer architectures for autonomous driving,”
 Computer, vol. 50, no. 8, pp. 18–25, 2017.
 
+S.-C. Lin et al., “The architectural implications of
+autonomous driving: Constraints and
+acceleration,” in Proc. 23rd Int. Conf. Architectural
+Support Program. Lang. Oper. Syst., 2018,
+pp. 751–766.
+
+J. Tang, B. Yu, S. Liu, Z. Zhang, W. Fang, and
+Y. Zhang, “π-SOC heterogeneous SOC
+architecture for visual inertial SLAM applications,”
+in Proc. IEEE/RSJ Int. Conf. Intell. Robots Syst.
+(IROS), Oct. 2018, pp. 1–6.
+
